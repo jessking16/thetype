@@ -4,7 +4,7 @@ header_text: ...
 footer_text: Copyright 2020 Jessica King
 header_feature_image: ../uploads/pages.jpg
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
+logo: ../uploads/the-type-logo-2.png
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
