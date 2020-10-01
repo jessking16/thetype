@@ -1,9 +1,9 @@
 title: the type
 description: Typography Blog
-header_text: ...
+header_text: ""
 footer_text: Copyright 2020 Jessica King
-header_feature_image: ../uploads/pages.jpg
-bannerheight: 20vmax
+header_feature_image: ../uploads/the-type-logo-4.png
+bannerheight: 100vh
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
