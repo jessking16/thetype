@@ -4,7 +4,7 @@ header_text: typography in context
 footer_text: Copyright 2020 Jessica King
 header_feature_image: ../uploads/bannerimage.png
 bannerheight: 100vh
-logo: /uploads/logo.jpg
+logo: ../uploads/logo-an-banner-image-.png
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
