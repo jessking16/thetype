@@ -2,8 +2,9 @@
 layout: post
 title: Here is a blog post sample
 date: 2020-06-24 17:50
-header_feature_image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
+header_feature_image: ../uploads/dfb77e09-826d-4e9f-b413-89d756b16358_1_105_c.jpeg
 caption: Cobbles
+comments: false
 ---
 
 This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
