@@ -4,7 +4,7 @@ title: about
 subtitle: theory behind the type
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/bannerimage.png
+header_feature_image: ../uploads/07deca81-b393-439d-ba0f-0e3841ef6311.jpeg
 published: true
 tags: null
 description: null
