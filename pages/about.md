@@ -14,7 +14,7 @@ This blog takes a look at the typography used in everyday life and culture, brin
 
 My Logo 
 
-![the type Logo](../uploads/the-type-logo-4.png "the type Logo ")
+![the type Logo](../uploads/logo-big-.png "the type Logo ")
 
 For the design of my logo I drew inspiration from the following media brands. 
 
