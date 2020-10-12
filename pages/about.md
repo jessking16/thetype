@@ -4,7 +4,7 @@ title: about
 subtitle: theory behind the type
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/ashley-edwards-ajcvtjcz310-unsplash.jpg
+header_feature_image: ../uploads/img_0327.jpg
 published: true
 tags: null
 description: null
