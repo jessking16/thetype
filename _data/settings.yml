@@ -6,6 +6,6 @@ header_feature_image: ../uploads/banner-image-title.png
 bannerheight: 100vh
 logo: ../uploads/the-type-logo-4.png
 favicon: ../uploads/favicon.ico
-gridlayout: false
+gridlayout: true
 fixednavbar: false
 upzoom: true
