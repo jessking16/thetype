@@ -12,18 +12,24 @@ show: true
 ---
 This blog takes a look at the typography used in everyday life and culture, bringing in suggestions of how it is so effective. From examining the packaging on our breakfast cereals to the writing we ink on our skin, this blog hopes to give a more personal insight into the typefaces we see everywhere, that make up our lives. 
 
-My Logo 
+My Banner Image and Title 
 
-![the type Logo](../uploads/type-big-g.png "the type Logo ")
+![the type Banner Image](../uploads/banner-image-title.png "the type Title")
+
+My Logo
+
+![the type Logo](../uploads/type-big-g.png "the type Logo")
+
+Favicon:
+
+![the type Favicon](../uploads/t.png "the type Favicon")
 
 For the design of my logo I drew inspiration from the following media brands. 
 
-![Inspiration Logos](../uploads/inspo-logos-.png)
+![Inspiration Logos](../uploads/inspo-logos-.png "Inspiration Logos")
 
 I chose the colour scheme:
 
 ![Colours](../uploads/colours.png)
-
-
 
 ![Typeface](../uploads/old-standard.png)
