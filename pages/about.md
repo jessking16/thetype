@@ -20,4 +20,10 @@ For the design of my logo I drew inspiration from the following media brands.
 
 ![Inspiration Logos](../uploads/inspo-logos-.png)
 
-I chose the font Old Standard
+I chose the colour scheme:
+
+![Colours](../uploads/colours.png)
+
+
+
+![Typeface](../uploads/old-standard.png)
