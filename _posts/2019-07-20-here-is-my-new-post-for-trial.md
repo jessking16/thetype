@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Here is a blog post sample
+title: snap, crackle, pop
 date: 2020-06-24 17:50
-header_feature_image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
+header_feature_image: ../uploads/490cb6cd-8dcc-4da5-82ab-bb5f8fe24578_1_201_a.jpeg
 caption: Cobbles
 comments: true
 ---
