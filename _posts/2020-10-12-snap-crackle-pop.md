@@ -6,6 +6,8 @@ header_feature_image: ../uploads/daniel-von-appen-5rqo1zlbjsm-unsplash.jpg
 caption: ""
 comments: true
 ---
+## The Red Letters on The Box 
+
 Breakfast is the most important meal of the day. And for many this means something quick before work, with most turning to trusted cereal brands to save the day.
 
 ![Cereal Boxes](../uploads/cereal-pictures.png "Cereal Boxes")
