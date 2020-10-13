@@ -10,7 +10,7 @@ why we buy the breakfast cereals/brands - othe breakfast foods we do
 
 Breakfast is the most important meal of the day. And for many this means something quick before work, with most turning to trusted cereal brands to save the day.
 
-![Cereal Boxes](../uploads/dfb77e09-826d-4e9f-b413-89d756b16358_1_105_c.jpeg "Cereal Boxes")
+![Cereal Boxes](../uploads/cereal-pictures.png "Cereal Boxes")
 
 The food industry is a thriving and continuously growing place with areas of the market overly saturated and constant introduction of new products, which begs the question, how do brands stand out in such a large crowd?
 
