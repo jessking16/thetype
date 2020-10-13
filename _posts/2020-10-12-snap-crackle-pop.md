@@ -24,6 +24,8 @@ This is only furthered by the choice in red to colour the text, the saturation i
 
 The product name itself on each cereal box tends to use sans serif or slab serif typefaces in various colours including black and white, ‘Rice Krispies’, ‘Corn Flakes’. These associate the brand and individual cereal to strength; a clever way to reinforce the idea that eating their product will make you strong and healthy.
 
+![Spokescharacters @Kellogg's](../uploads/snap-crackle-pop-tony-the-tiger.png "Spokescharacters @Kellogg's")
+
 This approach can also be seen among competitor brands such as Nestle with the Original Shreddies where they use strong lettering to reiterate why their product is better than another brand along the aisle, and how it delivers on its promises.
 
 Our brains read typography and see more than just red letters on a box and trick us into thinking this product is the best based on its branding. The result is a bowl of Kellogg’s in the morning so few are complaining.
