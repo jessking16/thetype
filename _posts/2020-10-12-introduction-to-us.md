@@ -5,7 +5,7 @@ date: 2020-09-28T16:30:54.005Z
 header_feature_image: ../uploads/thomas-heintz-0tgmnmiyq9y-unsplash.jpg
 comments: true
 ---
-## Welcome to the type...
+## Welcome to the type.
 
 Typography is such a large part of our daily lives but the question is what makes our favourite brands and day-to-day products so appealing? 
 
