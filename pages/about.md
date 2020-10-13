@@ -26,7 +26,7 @@ My Logo reiterates the design, forming a simplified version of the title that ca
 
 ## The Favicon
 
-The faicon is a further simplified version showing "t" as a single character. This reflects the size restraints and ensures the text is still clear. It draws on features from favicons of the most successful brands in the industry, such as the use of one character and stark black lettering. 
+The favicon is a further simplified version showing "t" as a single character. This reflects the size restraints and ensures the text is still clear. It draws on features from favicons of the most successful brands in the industry, such as the use of one character and stark black lettering. 
 
 ![the type Favicon](../uploads/t.png "the type Favicon")
 
@@ -36,13 +36,13 @@ For the design of my logo I drew inspiration from the following media brands.
 
 ![Inspiration Logos](../uploads/inspo-logos-.png "Inspiration Logos")
 
-## Colour 
+## Colour
 
-The colour palette was curated to match industry titans using an only black and white theme. These colours again incorporate a simplicity and clarity which have connotations of strength and trust, this reflects some of the brand values of trust, loyalty and honesty. There is a high contrast between the colours; this large amount of whitespace makes the website appear clean and tidy due to high brightness. 
+The colour palette was curated to match industry titans using an only black and white theme. These colours again incorporate a simplicity and clarity which have connotations of strength and trust, this reflects some of the brand values of trust, loyalty and honesty. There is a high contrast between the colours; this large amount of whitespace makes the website appear clean and tidy due to the high brightness. 
 
 ![Colours](../uploads/colours.png)
 
-## Typeface 
+## Typeface
 
 The website uses a serif typeface which increases the level of sophistication and creates a more classic and trusted feel. The typeface used is "Old Standard", which has a large x-height and a small area of space between the baseline and descender line, this makes it easy to read in text. Together with the light weight of the typeface the text feels more luxurious, yet using lowercase lettering connects the brand to the viewer, implying a soft and relatable side. 
 
