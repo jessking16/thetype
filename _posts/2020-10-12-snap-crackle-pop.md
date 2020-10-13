@@ -22,7 +22,7 @@ Kellogg’s uses a custom typeface for its logo, crafted in a script style mimic
 
 This is only furthered by the choice in red to colour the text, the saturation is quite high creating a vibrant logo which is appealing and draws your eye straight to a well-known brand name we all love. Kellogg’s have strategically chosen this colour to stand out in a sea of cereal boxes in the supermarket aisles. The colour has connotations of both being alarmed and enjoyment which work hand in hand for a positive experience of all the products.
 
-The product name itself on each cereal box tends to use sans serif or slab serif typefaces in various colours including black and white, ‘Rice Crispies’, ‘Corn Flakes’. These associate the brand and individual cereal to strength; a clever way to reinforce the idea that eating their product will make you strong and healthy.
+The product name itself on each cereal box tends to use sans serif or slab serif typefaces in various colours including black and white, ‘Rice Krispies’, ‘Corn Flakes’. These associate the brand and individual cereal to strength; a clever way to reinforce the idea that eating their product will make you strong and healthy.
 
 This approach can also be seen among competitor brands such as Nestle with the Original Shreddies where they use strong lettering to reiterate why their product is better than another brand along the aisle, and how it delivers on its promises.
 
