@@ -9,3 +9,7 @@ favicon: ../uploads/favicon.ico
 gridlayout: true
 fixednavbar: false
 upzoom: true
+items:
+  - name: profile
+    siteurl: /aboutme
+    tab: true
