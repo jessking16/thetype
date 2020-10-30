@@ -14,7 +14,7 @@ This blog takes a look at the typography used in everyday life and culture, brin
 
 ## The Banner Image
 
-My banner image covers the full window on screen acting as the title for the blog. Highlighting the recognisable face of my media brand, and making the title the forefront of the website, this choice demonstrates a distinct branding often seen in lifestyle and culture magazines and leaves the design of the logo and title to speak for itself. The title is written in all lowercase characters as a decision to make the lettering more soft to the viewer. The decision in colour palette and typeface reinforce this, buliding on classic simplicity. 
+My banner image covers the full window on screen acting as the title for the blog. Highlighting the recognisable face of my media brand, and making the title the forefront of the website, this choice demonstrates a distinct branding often seen in lifestyle and culture magazines and leaves the design of the logo and title to speak for itself. The title is written in all lowercase characters as a decision to make the lettering more soft to the viewer. The decision in colour palette and typeface reinforce this, building on classic simplicity. 
 
 ![the type Banner Image](../uploads/banner-image-title.png "the type Title")
 
