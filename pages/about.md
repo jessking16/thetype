@@ -22,13 +22,13 @@ My banner image covers the full window on screen acting as the title for the blo
 
 My Logo reiterates the design, forming a simplified version of the title that can be easily identified even at a small size on screen. Following suit in all lowercase and classic black lettering, the logo shows an elegant design with a small amount of whitespace and a basic typeface. This style is delicate and has a sense of clarity often associated with sophistication and harmony, this means the viewer is able to recognise the media brand easily from what they can see. 
 
-![the type Logo](../uploads/the-type-logo-5.png "the type Logo")
+![the type Logo](../uploads/photos-blog-3.png "the type Logo")
 
 ## The Favicon
 
 The favicon is a further simplified version showing "t" as a single character. This reflects the size restraints and ensures the text is still clear. It draws on features from favicons of the most successful brands in the industry, such as the use of one character and stark black lettering. 
 
-![the type Favicon](../uploads/the-type-logo-7.png "the type Favicon")
+![the type Favicon](../uploads/photos-blog-4.png "the type Favicon")
 
 ## Inspirations
 
