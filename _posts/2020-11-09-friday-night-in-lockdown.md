@@ -13,13 +13,13 @@ The major chains have more in common than delivery speed and cheap prices though
 
 ### Fast Food 
 
-McDonald’s lettering for example is rigid, each character made up of a series of blocks. Further all the letters are in uppercase which aids the readability of each word, this is key in the food industry due to the demographic profile. For instance, the products are aimed at all age groups and therefore needs to be simple words that even young children can understand with ease. Additionally, many people have allergies so typeface needs to ensure that any person can identify potential allergens easily. 
-
 ![Big Mac Image © McDonald's](../uploads/photos-blog-6.png "Big Mac Image © McDonald's")
 
-This is continued throughout the market sector as seen in the Five Guys package design, a chain that also sells burgers and fast food. Where both businesses also opt for a red colour palette, this makes the food seem more appealing and increases the likelihood a person will choose the brand and make a purchase. This is potentially because, red connotes a sense of allure and is naturally striking but also supports that red is the most attractive colour.
+McDonald’s lettering for example is rigid, each character made up of a series of blocks. Further all the letters are in uppercase which aids the readability of each word, this is key in the food industry due to the demographic profile. For instance, the products are aimed at all age groups and therefore needs to be simple words that even young children can understand with ease. Additionally, many people have allergies so typeface needs to ensure that any person can identify potential allergens easily. 
 
 ![Five Guys Meal © Five Guys ](../uploads/photos-blog-7.png "Five Guys Meal © Five Guys ")
+
+This is continued throughout the market sector as seen in the Five Guys package design, a chain that also sells burgers and fast food. Where both businesses also opt for a red colour palette, this makes the food seem more appealing and increases the likelihood a person will choose the brand and make a purchase. This is potentially because, red connotes a sense of allure and is naturally striking but also supports that red is the most attractive colour.
 
 ### Sandwich and Pizza Chains 
 
