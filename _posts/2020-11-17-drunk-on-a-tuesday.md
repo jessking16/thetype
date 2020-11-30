@@ -5,11 +5,11 @@ date: 2020-11-02T17:30:00.000Z
 header_feature_image: ../uploads/wil-stewart-uerwoqeomrc-unsplash.jpg
 comments: true
 ---
-## What makes us drink that one particular booze brand?
+## What makes us drink that booze brand?
 
 After taking a look at the packaging of some cult favourite alcohol brands there are some key features that come to mind. 
 
-![Jack Daniels Bottle](../uploads/jack-ward-yu9tnvk_ji8-unsplash.jpg "Jack Daniels Bottle")
+![Jack Daniel's Bottle](../uploads/jack-ward-yu9tnvk_ji8-unsplash.jpg "Jack Daniel's Bottle")
 
 ![Bacardi Bottle](../uploads/aaron-lares-a7t4xytal9i-unsplash.jpg "Bacardi Bottle ")
 
