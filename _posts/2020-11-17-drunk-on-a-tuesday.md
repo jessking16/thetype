@@ -9,8 +9,8 @@ comments: true
 
 After taking a look at the packaging of some cult favourite alcohol brands there are some key features that come to mind. 
 
-![Jack Daniel's Bottle](../uploads/jack-ward-yu9tnvk_ji8-unsplash.jpg "Jack Daniel's Bottle")
+![Jack Daniel's Bottle © Jack Ward ](../uploads/jack-ward-yu9tnvk_ji8-unsplash.jpg "Jack Daniel's Bottle © Jack Ward ")
 
-![Bacardi Bottle](../uploads/aaron-lares-a7t4xytal9i-unsplash.jpg "Bacardi Bottle ")
+![Bacardi Bottle © Aaron Lares](../uploads/aaron-lares-a7t4xytal9i-unsplash.jpg "Bacardi Bottle © Aaron Lares ")
 
-![Jose Cuero Tequila Silver](../uploads/fidel-fernando-tflbygwdews-unsplash.jpg "Jose Cuero Tequila Silver ")
+![Jose Cuero Tequila Silver © Fidel Fernando ](../uploads/fidel-fernando-tflbygwdews-unsplash.jpg "Jose Cuero Tequila Silver © Fidel Fernando")
