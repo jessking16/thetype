@@ -2,6 +2,7 @@
 layout: post
 title: "helpful terminology "
 date: 2020-10-05T16:30:00.000Z
+header_feature_image: ../uploads/banner-image-title.png
 comments: true
 ---
 Ascender – rises above the x-height 
