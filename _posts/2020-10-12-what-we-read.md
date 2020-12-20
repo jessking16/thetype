@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "what we read "
-date: 2020-10-12T16:38:46.884Z
+title: what we read on the page
+date: 2020-10-12T16:30:00.000Z
+header_feature_image: ../uploads/b7b24505fbbaf2f5ad47e75cdbec8b07.jpg
 comments: true
 ---
 ## Like the song. 
