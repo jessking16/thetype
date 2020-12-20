@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "what we read "
+title: what we read on the page
 date: 2020-10-12T16:38:46.884Z
 comments: true
 ---
